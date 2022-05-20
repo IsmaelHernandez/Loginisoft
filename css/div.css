@@ -1,0 +1,60 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+h1{
+    text-align: center;
+    color: chocolate;
+ }
+ h2{
+    text-align: center;
+    color: blueviolet;
+ }
+
+ p{
+    text-align: center;
+ }
+
+ a{
+    text-align: center;
+ }
+
+/* estilo tarjeta jsjsj */
+.div1{
+    background-color: aquamarine;
+    border: 10px solid black;
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+    
+}
+
+.div2{
+    background-color: rgb(222, 177, 135);
+    border: 10px solid rgb(205, 50, 84);
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+}
+
+.div3{
+    background-color: burlywood;
+    border: 10px solid yellowgreen;
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+}
+.div4{
+    background-color: rgb(222, 135, 203);
+    border: 10px solid rgb(50, 60, 205);
+    text-align: center;
+    margin: 15px 100px;
+    padding: 15px;
+}
+
+
+ /* elemento unico se usa id para elementos unicosx */
+ #prueba{
+    color: rgb(29, 55, 170);
+ }

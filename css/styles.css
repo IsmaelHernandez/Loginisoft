@@ -1,0 +1,75 @@
+.colorp{
+    color: aquamarine;
+}
+
+.div1{
+    background-color: rgb(85, 83, 182);
+    padding: 30px;
+    
+}
+
+.caja1{
+    background-color: crimson;
+    padding: 15px;
+    border: solid 10px powderblue;
+    margin: 50px;
+}
+
+.caja2{
+    background-color: crimson;
+    padding: 15px;
+    border: solid 10px powderblue;
+    margin: 50px;
+}
+
+.caja3{
+    background-color: rgb(17, 105, 128);
+    padding: 15px;
+    border: solid 10px rgb(210, 176, 230);
+    margin: 50px;
+}
+
+.caja4{
+    background-color: orange;
+    padding: 15px;
+    border: solid 10px rgb(191, 230, 176);
+    margin: 50px;
+}
+
+.caja5{
+    background-color: #2e7248;
+    padding: 15px;
+    border: solid 10px rgb(105, 151, 86);
+    margin: 50px;
+}
+
+.titulo{
+    color: blueviolet;
+}
+
+/* a:hover{
+    color: #2e7248;
+} */
+
+.btn-new{
+    background-color: #2e7248;
+}
+
+.btn1{
+    background-color: red;
+    border-bottom: 10px;
+  
+}
+
+.body{
+    background-color: aqua;
+}
+
+.tabla1{
+   background-color: yellow;
+   
+}
+
+.tabla2{
+    background-color: tomato;
+}
