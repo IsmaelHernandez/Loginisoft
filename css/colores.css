@@ -1,0 +1,48 @@
+*{
+    margin: 10px;
+}
+.rojo{
+    
+    border: dotted 35px #A93226;
+}
+
+.verde{
+    border-style: dashed;
+    border-width:  10px 5px 3px 2px;
+    border-color: #D4AC0D;
+}
+
+.amarillo{
+    background-color: #D4AC0D;
+    border: dashed 5px #17A589;
+}
+
+.rosa{
+    background-color: #76D7C4;
+    border: double 5px #17A589;
+}
+
+.azul{
+    background-color: #9f7470;    
+    border: solid 5px #17A589;
+}
+
+.ismael{
+    background-color: #239B56;    
+    border-radius: 30px;
+}
+
+.salvador{
+    background-color: #2E86C1;    
+    border-radius: 30px;
+}
+
+.leo{
+    background-color: #8E44AD;    
+    border-radius: 30px;
+}
+
+.alexis{
+    background-color: #D35400;    
+   border-radius: 30px;
+}

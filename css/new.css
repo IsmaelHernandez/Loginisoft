@@ -1,0 +1,26 @@
+*{
+    /* selector universal */
+    background-color: gold;
+    
+}
+
+.h1{
+    color: aquamarine;
+    text-align: center;
+}
+
+.section1{
+    background-color: #CD6155;
+    width: 100%;
+    
+}
+
+#ejemp{
+    text-align: center;
+    color: #1C2833;
+}
+
+p.centrar{
+    color: red;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+header{
+    background-color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+.nav{
+    background-color: rgb(0, 255, 30);
+    margin-right: 90%;
+}
+
+.section1{
+    text-align: center;
+    background-color: aqua;
+}
+
+.section2{
+    text-align: center;
+    background-color: rgb(111, 23, 30);
+}

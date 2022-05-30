@@ -1,0 +1,28 @@
+/* Tipo de dato string */
+var nombre = "ismael hernandez";
+console.log(nombre);
+console.log(nombre);
+
+var numero1 = 2;
+var numero2 = 2;
+
+/* Tipo de dato numerico */
+var resultado = numero1+numero2;
+console.log(resultado);
+var edad = 18;
+
+if(edad == 18){
+    console.log("eres mayor de edad");
+}
+else{
+    console.log("eres menor de edad");
+}
+
+/* Tipo de dato objeto */
+
+var objeto = {
+    color: 'verde',
+    nombre:'tortuga',
+    edad: 26
+};
+
